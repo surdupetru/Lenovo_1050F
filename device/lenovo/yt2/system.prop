@@ -1,0 +1,12 @@
+# system.prop for yt2
+
+dalvik.vm.dexopt-data-only=1
+ro.opengles.version=196608
+ro.sf.lcd_density=240
+
+ro.spid.gps.pmm=disabled
+ro.spid.gps.tty=ttyMFD1
+ro.ril.status.polling.enable=0
+rs.gpu.renderscript=1
+rs.gpu.filterscript=1
+rs.gpu.rsIntrinsic=1

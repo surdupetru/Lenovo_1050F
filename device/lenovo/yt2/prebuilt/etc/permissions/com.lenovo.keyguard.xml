@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    <!-- 整数范例 -->
+    <ExampleInt>100</ExampleInt>
+    <!-- 布尔范例 -->
+    <ExampleBool>true</ExampleBool>
+    <!-- 实数范例 -->
+    <ExampleFloat>-0.5</ExampleFloat>
+    <!-- 字串范例 -->
+    <ExampleString>hello</ExampleString>
+
+    <!-- 默认锁屏主题（不指定则使用程序预设值，一般不指定为脚本主题） -->
+    <DefaultKeyguardTheme>Dreamland</DefaultKeyguardTheme>
+
+    <!-- 调试代码主题（强行锁屏固定启用某个代码主题，包括脚本主题机制） -->
+    <!-- <DebugCodeTheme>Dreamland</DebugCodeTheme> -->
+
+    <!-- 人脸辅助解锁开关 -->
+    <FaceAssistUnlock>false</FaceAssistUnlock>
+
+    <!-- 皮套窗口大小（单位dp） -->
+    <!-- <LeatherSheathSizeDp>w360h74</LeatherSheathSizeDp> -->
+
+    <!-- 开启时光轴代码主题 -->
+    <!-- <CtTimeVisionEnable>true</CtTimeVisionEnable> -->
+
+    <!-- 支持防误触功能开关 -->
+    <SupportAntiMisOperation>false</SupportAntiMisOperation>
+    
+</Root>

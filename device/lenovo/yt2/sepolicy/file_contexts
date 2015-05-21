@@ -1,0 +1,5 @@
+# Lenovo Yoga 2 sepolicy :
+# factory files
+/factory(/.*)?          u:object_r:system_file:s0
+# label graphics device with a new type
+/dev/dri/card0   u:object_r:gpu_device:s0

@@ -1,0 +1,25 @@
+bcm43241.ko:
+uvcvideo.ko: videobuf2-core.ko videobuf2-vmalloc.ko videobuf2-memops.ko
+videobuf-core.ko:
+ov2722.ko:
+videobuf2-vmalloc.ko: videobuf2-memops.ko
+videobuf-vmalloc.ko: videobuf-core.ko
+libmsrlisthelper.ko:
+bcm_bt_lpm.ko:
+lm3554.ko:
+ov9760.ko:
+vtsspp.ko:
+pax.ko:
+SOCWATCH1_3.ko:
+videobuf2-core.ko:
+iqvandroid.ko:
+ov8865.ko:
+imx1x5.ko: libmsrlisthelper.ko
+atomisp-css2400b0_v21.ko: videobuf-vmalloc.ko videobuf-core.ko
+videobuf2-memops.ko:
+mac80211.ko:
+vxd392.ko:
+atomisp-css2401a0_v21.ko: videobuf-vmalloc.ko videobuf-core.ko
+hdmi_audio.ko:
+sep3_10.ko:
+atomisp-css2401a0_legacy_v21.ko: videobuf-vmalloc.ko videobuf-core.ko
